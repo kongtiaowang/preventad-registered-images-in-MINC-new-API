@@ -1,1 +1,208 @@
-/annex/objects/MD5E-s7453--3212a1df4bfae7ade24198410ced91dc
+{
+  "Meta": {
+    "CandID": "7055352",
+    "Visit": "PREFU12"
+  },
+  "Files": [
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_asl_001.mnc",
+      "AcquisitionType": "asl"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-phasediff_001.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_bold_001.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_bold_002.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-phasediff_002.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-phasediff_003.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo10-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo10-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo11-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo11-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo12-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo12-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo1-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo1-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo2-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo2-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo3-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo3-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo4-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo4-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo5-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo5-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo6-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo6-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo7-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo7-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo8-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo8-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7055352_PREFU12_echo9-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo9-phase-qT2star"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo12-magnitude-qT2star_001_echo12-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo12-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo11-magnitude-qT2star_001_echo11-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo11-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_001_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo10-magnitude-qT2star_001_echo10-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo10-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_004_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_002_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_t2w_001_t2w-defaced_001.mnc",
+      "AcquisitionType": "t2w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo4-magnitude-qT2star_001_echo4-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo4-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_005_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo6-magnitude-qT2star_001_echo6-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo6-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo8-magnitude-qT2star_001_echo8-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo8-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_006_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo9-magnitude-qT2star_001_echo9-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo9-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo5-magnitude-qT2star_001_echo5-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo5-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_fieldmap-magnitude_003_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo1-magnitude-qT2star_001_echo1-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo1-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo3-magnitude-qT2star_001_echo3-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo3-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_T2star_001_T2star-defaced_001.mnc",
+      "AcquisitionType": "T2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo7-magnitude-qT2star_001_echo7-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo7-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7055352_PREFU12_echo2-magnitude-qT2star_001_echo2-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo2-magnitude-qT2star-defaced"
+    }
+  ]
+}

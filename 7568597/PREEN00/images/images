@@ -1,1 +1,173 @@
-/annex/objects/MD5E-s6293--fae14995c5af106358e2136782b56bad
+{
+  "Meta": {
+    "CandID": "7568597",
+    "Visit": "PREEN00"
+  },
+  "Files": [
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-phasediff_001.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_dwi65_001.mnc",
+      "AcquisitionType": "dwi65"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-phasediff_002.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo10-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo10-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo11-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo11-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo12-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo12-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo1-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo1-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo2-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo2-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo3-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo3-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo4-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo4-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo5-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo5-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo6-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo6-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo7-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo7-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo8-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo8-phase-qT2star"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_7568597_PREEN00_echo9-phase-qT2star_001.mnc",
+      "AcquisitionType": "echo9-phase-qT2star"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo5-magnitude-qT2star_001_echo5-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo5-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-magnitude_001_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo8-magnitude-qT2star_001_echo8-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo8-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo11-magnitude-qT2star_001_echo11-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo11-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo7-magnitude-qT2star_001_echo7-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo7-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-magnitude_004_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo9-magnitude-qT2star_001_echo9-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo9-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo6-magnitude-qT2star_001_echo6-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo6-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-magnitude_002_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo2-magnitude-qT2star_001_echo2-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo2-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo1-magnitude-qT2star_001_echo1-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo1-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo12-magnitude-qT2star_001_echo12-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo12-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo3-magnitude-qT2star_001_echo3-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo3-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo4-magnitude-qT2star_001_echo4-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo4-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_echo10-magnitude-qT2star_001_echo10-magnitude-qT2star-defaced_001.mnc",
+      "AcquisitionType": "echo10-magnitude-qT2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_7568597_PREEN00_fieldmap-magnitude_003_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    }
+  ]
+}

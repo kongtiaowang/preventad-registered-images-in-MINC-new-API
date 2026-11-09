@@ -1,1 +1,18 @@
-/annex/objects/MD5E-s410--55ab351d644896adc0bdbd82683e42bc
+{
+  "Meta": {
+    "CandID": "4718998",
+    "Visit": "NAPFU03"
+  },
+  "Files": [
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4718998_NAPFU03_T2star_001_T2star-defaced_001.mnc",
+      "AcquisitionType": "T2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4718998_NAPFU03_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    }
+  ]
+}

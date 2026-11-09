@@ -1,1 +1,23 @@
-/annex/objects/MD5E-s574--dac894eba6a3f03933484242184d1606
+{
+  "Meta": {
+    "CandID": "5774407",
+    "Visit": "NAPFU36"
+  },
+  "Files": [
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5774407_NAPFU36_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5774407_NAPFU36_T2star_001_T2star-defaced_001.mnc",
+      "AcquisitionType": "T2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5774407_NAPFU36_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    }
+  ]
+}

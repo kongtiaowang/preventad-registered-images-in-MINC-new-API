@@ -1,1 +1,143 @@
-/annex/objects/MD5E-s4781--c24fa99e614e77bf0eaa96b6cfb1d261
+{
+  "Meta": {
+    "CandID": "5452448",
+    "Visit": "NAPFU24"
+  },
+  "Files": [
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_asl_001.mnc",
+      "AcquisitionType": "asl"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-phasediff_001.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_bold_001.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_bold_002.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-phasediff_002.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_task-encoding-bold_001.mnc",
+      "AcquisitionType": "task-encoding-bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-phasediff_003.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_task-retrieval-bold_001.mnc",
+      "AcquisitionType": "task-retrieval-bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-phasediff_004.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_dwi65_001.mnc",
+      "AcquisitionType": "dwi65"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-phasediff_005.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_007_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_T2star_001_T2star-defaced_001.mnc",
+      "AcquisitionType": "T2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_010_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_004_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_008_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_005_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_003_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_001_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_t1w_002_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_006_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_009_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_5452448_NAPFU24_fieldmap-magnitude_002_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_task-encoding-events_001.txt",
+      "AcquisitionType": "task-encoding-events"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_5452448_NAPFU24_task-retrieval-events_001.txt",
+      "AcquisitionType": "task-retrieval-events"
+    }
+  ]
+}

@@ -1,1 +1,98 @@
-/annex/objects/MD5E-s3184--5d6918e78f9fdd198875821b101b9fc0
+{
+  "Meta": {
+    "CandID": "4317780",
+    "Visit": "PREFU12"
+  },
+  "Files": [
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_asl_001.mnc",
+      "AcquisitionType": "asl"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-phasediff_001.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_bold_001.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_bold_002.mnc",
+      "AcquisitionType": "bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-phasediff_002.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_task-encoding-bold_001.mnc",
+      "AcquisitionType": "task-encoding-bold"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-phasediff_003.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_task-retrieval-bold_001.mnc",
+      "AcquisitionType": "task-retrieval-bold"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_006_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_002_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_004_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_003_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_T2star_001_T2star-defaced_001.mnc",
+      "AcquisitionType": "T2star-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_001_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_4317780_PREFU12_fieldmap-magnitude_005_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_task-encoding-events_001.txt",
+      "AcquisitionType": "task-encoding-events"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_4317780_PREFU12_task-retrieval-events_001.txt",
+      "AcquisitionType": "task-retrieval-events"
+    }
+  ]
+}

@@ -1,1 +1,18 @@
-/annex/objects/MD5E-s407--38b4c48dcb939a91faf2d61c208f9296
+{
+  "Meta": {
+    "CandID": "9962084",
+    "Visit": "NAPEN00"
+  },
+  "Files": [
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_9962084_NAPEN00_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_9962084_NAPEN00_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    }
+  ]
+}

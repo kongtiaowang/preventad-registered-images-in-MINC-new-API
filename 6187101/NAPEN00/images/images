@@ -1,1 +1,53 @@
-/annex/objects/MD5E-s1682--9928c21284258d6d164b7072d83dd927
+{
+  "Meta": {
+    "CandID": "6187101",
+    "Visit": "NAPEN00"
+  },
+  "Files": [
+    {
+      "OutputType": "native",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-phasediff_001.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_6187101_NAPEN00_dwi65_001.mnc",
+      "AcquisitionType": "dwi65"
+    },
+    {
+      "OutputType": "native",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-phasediff_002.mnc",
+      "AcquisitionType": "fieldmap-phasediff"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-magnitude_003_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-magnitude_002_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-magnitude_001_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_t1w_001_t1w-defaced_001.mnc",
+      "AcquisitionType": "t1w-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_fieldmap-magnitude_004_fieldmap-magnitude-defaced_001.mnc",
+      "AcquisitionType": "fieldmap-magnitude-defaced"
+    },
+    {
+      "OutputType": "defaced",
+      "Filename": "preventad_6187101_NAPEN00_FLAIR_001_FLAIR-defaced_001.mnc",
+      "AcquisitionType": "FLAIR-defaced"
+    }
+  ]
+}
