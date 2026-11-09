@@ -1,0 +1,19 @@
+{
+  "Meta": {
+    "CandID": "4210363",
+    "Project": "PREVENT-AD",
+    "PSCID": "CONP0000344",
+    "Site": "Montreal",
+    "EDC": null,
+    "DoB": null,
+    "Sex": "Female",
+    "Gender": "Female",
+    "Language": "en"
+  },
+  "Visits": [
+    "PREEN00",
+    "PREBL00",
+    "PREFU12",
+    "PREFU24"
+  ]
+}
